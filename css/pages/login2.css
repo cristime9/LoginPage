@@ -1,0 +1,20 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+
+body {
+    background: url(../../img/bg/back.jpg);
+    background-color: #444;
+    background: url(../../img/bg/pinlayer2.png), url(../../img/bg/back.jpg);
+    font-family: 'lato';
+}
+
+.vertical-offset-100 {
+    padding-top: 100px;
+}
+
+h3 {
+    font-size: 22px ! important;
+}
+
+.btn-primary {
+    background: #428BCA;
+}
